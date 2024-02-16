@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^php_k5_training_minhtn-develop/php_k5_training_minhtn-develop/$ /frontend1/index.php
+</IfModule>
